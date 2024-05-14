@@ -1,0 +1,26 @@
+.panda-bg-color {
+    background-color: #fceae8;
+}
+
+.catagores img {
+    width: 100px;
+}
+
+.shoes img {
+    width: 350px;
+    height: 210px;
+}
+
+.bakpack img {
+    width: 350px;
+
+}
+
+.panda-btn-bg-color {
+    color: white;
+    font-weight: 500;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
